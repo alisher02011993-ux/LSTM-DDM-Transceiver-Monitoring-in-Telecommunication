@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1462779241.svg)](https://doi.org/10.5281/zenodo.24342900)
+
 # Code accompanying the paper
 
 > N. Juraeva, D. Davronbekov, A. Khayrullaev, M. Muradov, M. Khadjaev, J. Kurbanov, R. Nasimov, *LSTM-Based Recognition of Degradation States in Fiber-Optic Transceivers Using Digital Diagnostic Monitoring Data*, submitted for publication.
@@ -55,7 +57,7 @@ Notebook comments are partly in Uzbek; code and variable names are in English.
 
 If you use this code or dataset, please cite the paper above and this repository:
 
-> Juraeva, N., Davronbekov, D., Khayrullaev, A., Muradov, M., Khadjaev, M., Kurbanov, J., & Nasimov, R. (2026). *Code and data for "LSTM-Based Recognition of Degradation States in Fiber-Optic Transceivers Using Digital Diagnostic Monitoring Data"*. Zenodo. [DOI to be added]
+> Juraeva, N., Davronbekov, D., Khayrullaev, A., Muradov, M., Khadjaev, M., Kurbanov, J., & Nasimov, R. (2026). *Code and data for "LSTM-Based Recognition of Degradation States in Fiber-Optic Transceivers Using Digital Diagnostic Monitoring Data"*. Zenodo. https://doi.org/10.5281/zenodo.24342901
 
 ```bibtex
 @software{juraeva2026ddm,
@@ -70,9 +72,7 @@ If you use this code or dataset, please cite the paper above and this repository
                Fiber-Optic Transceivers Using Digital Diagnostic Monitoring Data"},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {[DOI]},
-  url       = {https://doi.org/[DOI]}
+  doi       = {10.5281/zenodo.24342901},
+  url       = {https://doi.org/10.5281/zenodo.24342901}
 }
 ```
-
-
